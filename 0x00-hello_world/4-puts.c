@@ -2,7 +2,6 @@
 /*
  *main is entry point for code
 */
-
 int main(void)
 {
 	/* this will print a text using puts() function */
