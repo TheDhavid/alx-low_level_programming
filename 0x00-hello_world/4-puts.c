@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 /**
- *main is entry point for code
- *Return - Always 0 (Success)
+ *main - prints the phrase "Program ming is like building a multilingual puzzle
+ *Return: 0 if exited properly, non-zero otherwise
 */
 int main(void)
 {
