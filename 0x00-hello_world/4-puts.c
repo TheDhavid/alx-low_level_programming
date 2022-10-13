@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(void) /* starts the code reading area */
+/*main function that will start the code identification for compiler*/
+int main(void)
 {
 	/* this will print a text using puts() function */
 	puts("Programming is like building a multilingual puzzle");
