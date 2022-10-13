@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*
+/**
  *main is entry point for code
  *Return - Always 0 (Success)
 */
